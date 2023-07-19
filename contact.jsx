@@ -3,7 +3,7 @@ import Head from "next/head";
 
 
 export default function Contact() {
-	
+	<br></br>
 	const [submitted, setSubmitted] = useState(false);
 	const [submitting, setSubmitting] = useState(false);
 
